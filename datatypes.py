@@ -1,0 +1,14 @@
+string="hello"
+print(string)
+int=10
+print(int)
+float=3.12
+print(float)
+complex=1+2j
+print(complex)
+a=(1,2,3)
+print(a)
+b=[4,5,6]
+print(b)
+c={7,8,9}
+print(c)
