@@ -1,0 +1,12 @@
+l=[1,2,"hello",20.20]
+print(l)
+l.append(30)
+print(l)
+l.insert(2,"world")
+print(l)
+l.remove("hello")
+print(l)
+l.pop(1)
+print(l)
+l.extend([40,50])
+print(l)

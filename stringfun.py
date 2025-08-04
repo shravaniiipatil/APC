@@ -1,0 +1,12 @@
+name="Shravani Patil"
+print(name.upper())
+print(name.lower())
+print(name.capitalize())
+print(name.swapcase())
+print(name.replace("Shravani", "Shravani S."))
+print(name.find("Patil"))
+print(name.index("Shravani"))
+print(name.count("a"))
+print(name.isalpha())
+print(name.isdigit())
+print(name.isalnum())

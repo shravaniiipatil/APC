@@ -1,0 +1,7 @@
+t = (10, 20,"Shravani", 40)
+print("Original Tuple:", t)
+lst = list(t)
+print("List:", lst)
+lst.insert(2, 25)
+new_tuple = tuple(lst)
+print("New Tuple:", new_tuple)

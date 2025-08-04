@@ -1,0 +1,8 @@
+tuple=(1,2,3,4,5,"hello",1)
+print(tuple)
+print(tuple.count(1))
+print(tuple.index(4))
+print(tuple[0])
+print(tuple[1:4])
+print(tuple[-1])
+print(tuple[-3:-1])
