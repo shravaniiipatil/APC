@@ -1,0 +1,3 @@
+Line 1: Learning Python
+Line 2: Practicing File Handling
+Line 3: Using read, readline, readlines, write

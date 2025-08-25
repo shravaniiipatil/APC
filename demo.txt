@@ -1,0 +1,3 @@
+This is written using 'w' mode.
+Old content (if any) is erased.
+This line is added using 'a' mode.

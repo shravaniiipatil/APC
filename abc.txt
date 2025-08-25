@@ -1,0 +1,2 @@
+This is ABC file.
+It has some content.
